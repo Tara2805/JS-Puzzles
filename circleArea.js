@@ -1,5 +1,7 @@
 //7 kyu Circle area inside square
 
+//Turn an area of a square in to an area of a circle that fits perfectly inside the square.
+
 function squareAreaToCircle(size){
     const radius = Math.sqrt(size) / 2;
   
