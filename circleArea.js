@@ -1,4 +1,4 @@
-//Circle area inside square
+//7 kyu Circle area inside square
 
 function squareAreaToCircle(size){
     const radius = Math.sqrt(size) / 2;

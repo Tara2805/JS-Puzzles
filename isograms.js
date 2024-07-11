@@ -1,3 +1,5 @@
+//7 kyu Isograms
+
 function isIsogram(str) {
 	const lowerStr = str.toLowerCase();
 	const letterSet = new Set();
